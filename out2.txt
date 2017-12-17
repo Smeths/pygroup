@@ -1,0 +1,5 @@
+Creating a group (10,+)
+Group Elements =  range(0, 10)
+Group Identity =  0
+Group Order =  10
+Inverse of element 3 =  7

@@ -1,0 +1,2 @@
+Create (120,+)
+Create sub group with elements 60,30 and 15

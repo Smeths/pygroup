@@ -1,0 +1,2 @@
+Create (64,x)
+Create sub group with elements 17 and 7
